@@ -1,0 +1,16 @@
+{
+  "compatibility_date": "2025-04-01",
+  "main": "src/index.ts",
+  "name": "lingering-fog-c579",
+  "upload_source_maps": true,
+  "d1_databases": [
+    {
+      "binding": "DB",
+      "database_id": "40121f66-03af-4791-8b1c-09602a678a71",
+      "database_name": "lingering-fog-c579-d1"
+    }
+  ],
+  "observability": {
+    "enabled": true
+  }
+}
